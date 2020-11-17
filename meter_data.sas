@@ -4,3 +4,5 @@ data work.meter_data;
 run;
 
 /* more text */
+proc contents data=work.meter_data;
+run;
